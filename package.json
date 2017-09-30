@@ -1,0 +1,21 @@
+{
+  "name": "movie-reviewer",
+  "version": "1.0.0",
+  "description": "used to review a movie by applying sentiment analysis on people's tweets",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "Twitter",
+    "API"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "dotenv": "^4.0.0",
+    "twitter": "^1.7.1"
+  }
+}
